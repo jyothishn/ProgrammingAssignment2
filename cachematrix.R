@@ -1,6 +1,6 @@
 ## Programming Assignment 2 - Cache the inverse of a matrix
 
-## his function creates a special "matrix" object that can cache its inverse
+## This function creates a special "matrix" object that can cache its inverse
 
 ## makeCacheMatrix creates a list containing a function to
 ##  set the value of the matrix
